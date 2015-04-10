@@ -8,7 +8,6 @@ NUS Semester 1 2014/15
 Project 3
 By: Weston Vial, Antoine Creux, Virgile Quitin
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ** Included:
   code/
