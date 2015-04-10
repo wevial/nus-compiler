@@ -1,14 +1,11 @@
 # nus-compiler
 Jlite Compiler constructed in OCaml for CS4212 at the National University of Singapore.
 
-~~~~~~~~~~~~~~~~~~ CS 4212 - Compiler Design ~~~~~~~~~~~~~~~~~~
-~~                     NUS Semester 1 2014/15                ~~
-~~                          Project 3                        ~~
-~~                                                           ~~
-~~            By: Antoine Creux (A0123427)                   ~~
-~~                Virgile Quitin                             ~~
-~~                Weston Vial  (A0126732J)                   ~~
-~~                                                           ~~
+CS 4212 - Compiler Design 
+NUS Semester 1 2014/15
+Project 3
+By: Weston Vial, Antoine Creux, Virgile Quitin
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ** Included:
