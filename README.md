@@ -1,6 +1,8 @@
 # nus-compiler
 Jlite Compiler constructed in OCaml for CS4212 at the National University of Singapore.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 CS 4212 - Compiler Design 
 NUS Semester 1 2014/15
 Project 3
